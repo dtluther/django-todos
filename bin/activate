@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/Users/lex/Local_docs/coding/python_practice/envs/django_todos'
+VIRTUAL_ENV='/Users/lex/Documents/coding/python_practice/envs/django_todos'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
